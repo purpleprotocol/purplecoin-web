@@ -2,18 +2,90 @@
 sectionId: privacy
 ---
 
-Your privacy is important to me. It is my, YOURNAME, policy to respect your privacy regarding any information I may collect from you across my website, YOURDOMAIN.
+At Purplecoin, accessible from https://purplecoin.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Purplecoin and how we use it.
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Purplecoin. This policy is not applicable to any information collected offline or via channels other than this website.
+Consent
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+Information we collect
 
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
+If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
+When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+How we use your information
 
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+We use the information we collect in various ways, including to:
+
+    Provide, operate, and maintain our website
+    Improve, personalize, and expand our website
+    Understand and analyze how you use our website
+    Develop new products, services, features, and functionality
+    Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
+    Send you emails
+    Find and prevent fraud
+
+Log Files
+
+Purplecoin follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+Cookies and Web Beacons
+
+Like any other website, Purplecoin uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+
+Purplecoin uses Google Analytics to collect data. We need this data to understand how you use our website so we can improve its design and functionality. We also need the data to get the most out of our marketing campaigns.
+
+With your consent, Google Analytics will process and collect your personal data (cookies and IP address) to give us valuable information. Google Analytics will transfer your data to the United States and store it for 6 months. To learn more about Google's data transfer policies, click [here](https://policies.google.com/privacy/frameworks?hl=en).
+You have certain rights over your data: for example, you can require us to delete them or to provide you with a copy. We take responsibility for the processing of your data. We are available to answer any question and handle any request from you. Click [here](mailto:info@purpletech.co.uk) to read more about your rights and to find how you can get in touch with us. Please express your cookie preference:
+
+    I consent to the processing of non-essential cookies
+    I refuse the processing of non-essential cookies We will not read or write cookies without your consent.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+CCPA Privacy Rights (Do Not Sell My Personal Information)
+
+Under the CCPA, among other rights, California consumers have the right to:
+
+Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+
+Request that a business delete any personal data about the consumer that a business has collected.
+
+Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+GDPR Data Protection Rights
+
+We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+
+The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+
+The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+
+The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+
+The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+
+The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+Children's Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+Purplecoin does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+
+Contact us at info@purpletech.co.uk
+
+Purpletech B.V. 
+Korte Lijnbaanssteeg 1 office 4121 1012SL Amsterdam
+NL87518791B01
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
