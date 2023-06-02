@@ -25,11 +25,25 @@
       "description": "Anyone can create assets on top of the Purplecoin blockchain and embed arbitrary spending rules. As the Purplecoin blockchain is stateless, storing data on the blockchain does not bloat the state of the chain as everyone is responsible for storing their own data.",
       "tags": [],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/woman-writing-code.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
-
+        
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Transact with ease",
+      "description": "Purplecoin feels like Bitcoin, but unlike Bitcoin, Purplecoin supports any type of asset. You can use any coin, token, or asset built on top to pay transaction fees or exchange between them. It is the only blockchain which can be used purely by owning only a stablecoin or other FIAT equivalent. \n\nXPU is built with compatibility between any kind of financial system in mind and is designed to support the volumes and needs of commercial entities.",
+      "tags": [],
+      "image": {
+        "src": "../../images/world-trade-centre-station.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+  
       ]
     }
   ],
