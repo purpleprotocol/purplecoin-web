@@ -1,0 +1,17 @@
+{
+  "intro": "",
+  "heroPhoto": {
+    "src": "../../images/logo.png",
+    "alt": "Logo"
+  },
+ 
+  "title": "Purplecoin",
+  "subtitle": {
+    "prefix": "A stateless, sharded blockchain. Launching soon."
+  },
+  "description": "Purplecoin represents the next generation of blockchains. While previous blockchains would take days to sync and use hundreds of GBs of storage, XPU syncs in minutes and uses megabytes of storage. It is also one of the few coins which can be mined on a smartphone. Supports CPU/GPU and ASIC mining. Estimated 10k+ tps while fully Proof of Work.",
+  "socialProfiles": {
+    "from": ["Twitter", "Medium", "Github", "LinkedIn", "Reddit", "Discord"],
+    "showIcons": true
+  }
+}

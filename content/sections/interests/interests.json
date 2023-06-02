@@ -1,0 +1,52 @@
+{
+  "interests": [
+    {
+      "label": "10k+ transactions per second",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Syncs in minutes",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Feels like Bitcoin",
+      "image": {
+        "src": "../../images/Bitcoin.png",
+        "alt": ""
+      }
+    },
+    
+    {
+      "label": "PoW: CPU/GPU/ASIC",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Runs on a smartphone",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Mineable on smartphones",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 6
+  }
+}

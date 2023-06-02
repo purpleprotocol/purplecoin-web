@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "description": "Join the community by following the links below!",
+  "image": {
+    "src": "../../images/logo.png",
+    "alt": "Purplecoin Logo"
+  },
+  "socialProfiles": {
+    "from": ["Twitter", "Github", "Discord", "Reddit"],
+    "showIcons": true
+  }
+}

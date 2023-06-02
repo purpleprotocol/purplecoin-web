@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "",
+      "title": "Fully Proof of Work and Sharded",
+      "description": "XPU is a sharded blockchain which can be mined with different Proof of Work algorithms at the same time. 16 chains change Proof of Work algorithms every 2 blocks. Supported algorithms: GhostRider (CPU/GPU), Sha256, Blake2b, Blake2s, Fugue, JH, and Keccak.",
+      "tags": [],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/purpleprotocol/purplecoin/blob/main/doc/mining.md"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://github.com/purpleprotocol/purplecoin/blob/main/doc/mining.md"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Native Multi-Asset Support, including NFTs",
+      "description": "Anyone can create assets on top of the Purplecoin blockchain and embed arbitrary spending rules. As the Purplecoin blockchain is stateless, storing data on the blockchain does not bloat the state of the chain as everyone is responsible for storing their own data.",
+      "tags": [],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/purpleprotocol/purplecoin"
+  }
+}

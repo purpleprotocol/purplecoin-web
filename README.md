@@ -1,0 +1,2 @@
+# Purplecoin website
+Purplecoin website
