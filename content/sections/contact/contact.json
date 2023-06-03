@@ -6,7 +6,7 @@
     "alt": "Purplecoin Logo"
   },
   "socialProfiles": {
-    "from": ["Twitter", "Github", "Discord", "Reddit"],
-    "showIcons": true
+    "from": ["Twitter", "Discord", "Medium", "LinkedIn", "Reddit"],
+    "showIcons": false
   }
 }
