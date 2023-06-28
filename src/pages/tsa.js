@@ -186,7 +186,7 @@ In terms of this Agreement the term “Token sale” refers only to the Pre-sale
 7.3. The price of the Tokens is confirmed in ETH.
 </p>
 <p>
-7.4. 1 ETH is equal to 15300 Tokens during the first third of the Public sale phase, to 10200 Tokens during the second third of the Public sale phase, and 5100 during the last third of the Public sale phase.
+7.4. 1 ETH is equal to 12000 Tokens during the first third of the Public sale phase, to 8000 Tokens during the second third of the Public sale phase, and 4000 during the last third of the Public sale phase.
 </p>
 <p>
 7.5. Company accepts the following payment methods: in ETH to the address specified on Website.
