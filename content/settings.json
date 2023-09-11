@@ -2,9 +2,9 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://www.purplecoin.io/",
-    "title": "Purplecoin",
-    "titleTemplate": "%s · Purplecoin",
-    "description": "Purplecoin is the first stateless, sharded blockchain",
+    "title": "Purplecoin — XPU",
+    "titleTemplate": "%s · Purplecoin - XPU",
+    "description": "Purplecoin (XPU) is the first stateless, sharded blockchain",
     "author": "Konstantin Münster",
     "avatar": "../content/images/logo.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
@@ -19,23 +19,23 @@
   },
   "siteConfiguration": {
     "logo": { 
-      "text": "Purplecoin/XPU"
+      "text": "XPU"
     },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Features", "url": "/#features" },
-        { "label": "Whitepaper", "url": "https://github.com/purpleprotocol/purplecoin_whitepaper/raw/main/whitepaper.pdf" }
+        { "label": "Merch", "url": "https://merch.purplecoin.io" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Crowdsale",
-        "url": "https://sale.purplecoin.io"
+        "label": "Community",
+        "url": "https://discord.gg/5ZVZnKd"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Merch", "url": "https://merch.purplecoin.io" },
-        { "label": "TSA", "url": "/tsa" }
+        { "label": "Whitepaper", "url": "https://github.com/purpleprotocol/purplecoin_whitepaper/raw/main/whitepaper.pdf" }
       ]
     },
     "featureToggles": {
